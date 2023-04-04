@@ -53,7 +53,7 @@ La clienta solo a logrado ventas gracias a recomendaciones de familiares y amigo
 ![image](https://user-images.githubusercontent.com/99160117/228758287-54b097bc-ce81-452f-8693-e767e9414cb1.png)
 
 ## Demo del sitio web
-[Da click aquí](https://amigurimiscrochet.wixsite.com/misitio)
+Puedes ver la página realizada con Wix dando click[aquí](https://amigurimiscrochet.wixsite.com/misitio)
 
 
 ****
